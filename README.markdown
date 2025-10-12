@@ -63,6 +63,7 @@ naval-clash/
 ├── game.cpp              # Source code for the game
 ├── .gitignore            # Specifies files to ignore (e.g., compiled outputs)
 ├── README.md             # This documentation
+├── LICENSE               # License file (MIT)
 ```
 
 ## Dependencies
