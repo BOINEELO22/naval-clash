@@ -79,3 +79,8 @@ No external libraries are required.
 
 ## Author
 Boineelo Mothibedi
+
+## License
+This project is released under the **MIT License**. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, provided that you include the copyright notice and this permission notice in all copies or substantial portions of the Software.
+
+A copy of the full license text is provided in the repository as `LICENSE`.
