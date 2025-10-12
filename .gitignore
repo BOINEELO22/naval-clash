@@ -1,0 +1,35 @@
+# Compiled Outputs
+*.o
+*.exe
+*.out
+*.app
+naval_clash
+
+# Libraries and Dependencies
+*.a
+*.lib
+*.dll
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+.classpath
+.project
+.settings/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Temporary and Log Files
+*.log
+*.tmp
+*.temp
+
+# Generated Game Files
+player1_grid.txt
+player2_grid.txt
+player1_final_grid.txt
+player2_final_grid.txt
