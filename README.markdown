@@ -77,3 +77,5 @@ No external libraries are required.
 - If file operations fail (e.g., due to permissions), an error message (“Error opening file!”) is displayed, and final grids may not show.
 - The computer’s guesses in Player vs. Computer mode are random but avoid previously selected cells within a game.
 
+## Author
+Boineelo Mothibedi
