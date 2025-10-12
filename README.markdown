@@ -60,14 +60,9 @@ Naval Clash is a console-based C++ implementation of a simplified Battleship gam
 ## File Structure
 ```
 naval-clash/
-├── main.cpp              # Source code for the game
+├── game.cpp              # Source code for the game
 ├── .gitignore            # Specifies files to ignore (e.g., compiled outputs)
 ├── README.md             # This documentation
-├── LICENSE               # License file (e.g., MIT, optional)
-├── player1_grid.txt      # Generated: Player 2’s grid during play (for Player 1)
-├── player2_grid.txt      # Generated: Player 1’s grid during play (for Player 2)
-├── player1_final_grid.txt # Generated: Player 1’s final grid
-├── player2_final_grid.txt # Generated: Player 2’s final grid
 ```
 
 ## Dependencies
